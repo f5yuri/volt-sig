@@ -5,7 +5,8 @@
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
-    "build": "docusaurus build && rsync -avz --delete build/ mar:/www/wwwroot/ssomac.gd.pe/",
+    "build": "docusaurus build",
+    "build:me": "docusaurus build && rsync -avz --delete build/ mar:/www/wwwroot/ssomac.gd.pe/",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
