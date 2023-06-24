@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 0
 ---
 
 # Resumen
@@ -22,3 +22,4 @@ sidebar_position: 1
 ### Riesgos psicosociales
 
 > - [Plan de Vigilancia de Riesgos Psicosociales](https://gmiperu-my.sharepoint.com/personal/equispe_gmisac_com_pe/_layouts/15/onedrive.aspx?listurl=https%3A%2F%2Fgmiperu%2Esharepoint%2Ecom%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos&viewid=a979b7ce%2D4e6a%2D4c7e%2D9a7d%2D62f7c0b62ad6&login_hint=equispe%40gmisac%2Ecom%2Epe&id=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F6%2E2%20OBJETIVOS%20DEL%20SIG%20Y%20PLANIFICACI%C3%93N%20PARA%20LOGRARLOS%2F3%2E%20Registros%2F7%2E%20Programa%20de%20SO%2F2023%2FPlan%20de%20vigilancia%20de%20factores%20de%20riesgos%20psicosociales%20%2D%20GMI%202023%2Epdf&parent=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F6%2E2%20OBJETIVOS%20DEL%20SIG%20Y%20PLANIFICACI%C3%93N%20PARA%20LOGRARLOS%2F3%2E%20Registros%2F7%2E%20Programa%20de%20SO%2F2023)
+> - [Programa Anual de Riesgos Psicosociales](https://gmiperu.sharepoint.com/:x:/r/sites/ESTRUCTURASIGGMI/Documentos%20compartidos/ESTRUCTURA%20SIG%20GMI/6.2%20OBJETIVOS%20DEL%20SIG%20Y%20PLANIFICACI%C3%93N%20PARA%20LOGRARLOS/3.%20Registros/7.%20Programa%20de%20SO/2023/PRG-MSO-002%20Programa%20Anual%20de%20Riesgos%20Psicosociales%202023.xlsx?d=wdfb0a130f89b46c7ae5739234c989c47&csf=1&web=1&e=pKr4WW)
