@@ -119,51 +119,101 @@ a) Vigilancia de la salud de sus trabajadores? (exámenes médicos pre-ocupacion
 43. ✅ ¿La empresa cuentan con un plan de fatiga y somnolencia implementado?
 > Presentación de informes del Plan de fatiga y somnolencia que presenta Jessica [Informes SBC](https://gmiperu-my.sharepoint.com/personal/equispe_gmisac_com_pe/_layouts/15/onedrive.aspx?login_hint=equispe%40gmisac%2Ecom%2Epe&id=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F9%2E1%20SEGUIMIENTO%2CMEDICION%20Y%20ANALISIS%2F3%2E%20Registros%2F4%2E%20Informes%2F2023%2F5%2E%20SBC&listurl=https%3A%2F%2Fgmiperu%2Esharepoint%2Ecom%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos&viewid=a979b7ce%2D4e6a%2D4c7e%2D9a7d%2D62f7c0b62ad6&view=0)
 44. ✅ ¿Los trabajadores reciben capacitación en temas referidos a salud ocupacional o su programa de capacitación incluye estos temas, según los. riesgos a los que estén expuestos y sea aplicable? (ruido, polvo, gases, prevención, etc.)
-> 
-45. ¿La empresa tiene un programa implementado para la medición periódica de los agentes físicos, químicos, biológicos, psicosociales, ergonómicos., de acuerdo a sus actividades?
-46. ¿Se ha realizado la evaluación de riesgos disergonómicos en concordancia con lo establecido en la R.M. 375- 2008?
+> E-learning
+45. 🟠 ¿La empresa tiene un programa implementado para la medición periódica de los agentes físicos, químicos, biológicos, psicosociales, ergonómicos., de acuerdo a sus actividades?
+> - Informes de Monitoreo de Yesu, pasarlos a GMI [GES y Plan](https://gmiperu-my.sharepoint.com/personal/equispe_gmisac_com_pe/_layouts/15/onedrive.aspx?login_hint=equispe%40gmisac%2Ecom%2Epe&id=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F9%2E1%20SEGUIMIENTO%2CMEDICION%20Y%20ANALISIS%2F3%2E%20Registros%2F14%2E%20Higiene%20Ocupacional%2F2023%2F4%2E%20Monitoreos%20de%20Agentes%20ocupacionales&listurl=https%3A%2F%2Fgmiperu%2Esharepoint%2Ecom%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos&viewid=a979b7ce%2D4e6a%2D4c7e%2D9a7d%2D62f7c0b62ad6&view=0)
+> - [Informe de avance de riesgos Psicosociales](https://gmiperu-my.sharepoint.com/personal/equispe_gmisac_com_pe/_layouts/15/onedrive.aspx?login_hint=equispe%40gmisac%2Ecom%2Epe&id=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F9%2E1%20SEGUIMIENTO%2CMEDICION%20Y%20ANALISIS%2F3%2E%20Registros%2F4%2E%20Informes%2F2023%2F5%2E%20SBC%2F2%2E%20Riesgos%20Psicosociales&listurl=https%3A%2F%2Fgmiperu%2Esharepoint%2Ecom%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos&viewid=a979b7ce%2D4e6a%2D4c7e%2D9a7d%2D62f7c0b62ad6&view=0)
+46. ✅ ¿Se ha realizado la evaluación de riesgos disergonómicos en concordancia con lo establecido en la R.M. 375- 2008?
+> - Se encuentra en proceso, con el higienista de Alpayana
+> - Verificar que se encuentre los riesgos diergonomicos en el plan
 
 ### Inspecciones, Auditorías Y Controles
-47. ¿La empresa tiene un Programa de Inspecciones en SSO y se encuentra implementado?
-48. ¿La empresa tiene un Programa de auditoria en SSO y se encuentra implementado?
-49. ¿Se realiza un seguimiento a las oportunidades de mejora encontradas en las inspecciones?
-50. Se encuentra documentado las inspecciones cruzadas, evidenciando sus levantamientos.
-51. Cuenta con una base de datos de actos y condiciones subestándares y PARE registrados en los reporte de AyC,  cuenta con evidencias de planes. de acción.
-52. Se realiza la inspección mensual de los equipos de protección colectiva (guardas de seguridad, sistemas de izaje, sistema anticaída, luces. de emergencia, etc.). ¿Se cuenta con inventario de herramientas?
-53. Las condiciones de los equipos colectivos y herramientas son optimas.
+47. ✅ ¿La empresa tiene un Programa de Inspecciones en SSO y se encuentra implementado?
+> - [Inspecciones internas por area](https://gmiperu-my.sharepoint.com/personal/equispe_gmisac_com_pe/_layouts/15/onedrive.aspx?login_hint=equispe%40gmisac%2Ecom%2Epe&id=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F8%2E1%20PLANIFICACI%C3%93N%20Y%20CONTROL%20OPERACIONAL%2F3%2E%20Registros%2F2023%2F7%2E%20Inspecciones%20internas&listurl=https%3A%2F%2Fgmiperu%2Esharepoint%2Ecom%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos&viewid=a979b7ce%2D4e6a%2D4c7e%2D9a7d%2D62f7c0b62ad6&view=0)
+> - [Inpecciones preventivas de Seguridad](https://gmiperu-my.sharepoint.com/personal/equispe_gmisac_com_pe/_layouts/15/onedrive.aspx?login_hint=equispe%40gmisac%2Ecom%2Epe&id=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F9%2E1%20SEGUIMIENTO%2CMEDICION%20Y%20ANALISIS%2F3%2E%20Registros%2F13%2E%20Inspecci%C3%B3nes%2C%20RACS%20y%20Controles%2F1%2E%20Inspecciones%2F2023%2F1%2E%20INSPECCIONES%20DE%20SEGURIDAD&listurl=https%3A%2F%2Fgmiperu%2Esharepoint%2Ecom%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos&viewid=a979b7ce%2D4e6a%2D4c7e%2D9a7d%2D62f7c0b62ad6&view=0)
+48. ✅ ¿La empresa tiene un Programa de auditoria en SSO y se encuentra implementado?
+> [Programa de Auditorias Internas](https://gmiperu.sharepoint.com/:x:/r/sites/ESTRUCTURASIGGMI/_layouts/15/Doc.aspx?sourcedoc=%7B532FE6AE-D2C1-4262-8F61-9D28EDAEF3D9%7D&file=FOR-SIG-024%20Programa%20Anual%20de%20Auditorias%202023.xlsx&action=default&mobileredirect=true&cid=67c69b19-502f-4f67-9506-5e249f36b023)
+49. ✅ Se realiza un seguimiento a las oportunidades de mejora encontradas en las inspecciones?
+> [Seguimiento a las inspecciones internas](https://gmiperu-my.sharepoint.com/personal/equispe_gmisac_com_pe/_layouts/15/onedrive.aspx?login_hint=equispe%40gmisac%2Ecom%2Epe&id=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F9%2E1%20SEGUIMIENTO%2CMEDICION%20Y%20ANALISIS%2F3%2E%20Registros%2F13%2E%20Inspecci%C3%B3nes%2C%20RACS%20y%20Controles%2F1%2E%20Inspecciones%2F2023%2F3%2E%20Inspecciones%20Internas&listurl=https%3A%2F%2Fgmiperu%2Esharepoint%2Ecom%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos&viewid=a979b7ce%2D4e6a%2D4c7e%2D9a7d%2D62f7c0b62ad6&view=0)
+50. ✅ Se encuentra documentado las inspecciones cruzadas, evidenciando sus levantamientos.
+> [Inspecciones cruzadas entre ECM segun programa de Alpayana](https://gmiperu-my.sharepoint.com/personal/equispe_gmisac_com_pe/_layouts/15/onedrive.aspx?login_hint=equispe%40gmisac%2Ecom%2Epe&id=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F9%2E1%20SEGUIMIENTO%2CMEDICION%20Y%20ANALISIS%2F3%2E%20Registros%2F13%2E%20Inspecci%C3%B3nes%2C%20RACS%20y%20Controles%2F1%2E%20Inspecciones%2F2023%2F6%2E%20Inspecciones%20Cruzadas%20E%2EC&listurl=https%3A%2F%2Fgmiperu%2Esharepoint%2Ecom%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos&viewid=a979b7ce%2D4e6a%2D4c7e%2D9a7d%2D62f7c0b62ad6&view=0)
+51. ✅ Cuenta con una base de datos de actos y condiciones subestándares y PARE registrados en los reporte de AyC,  cuenta con evidencias de planes. de acción.
+> Sistema Jarkay
+52. ✅ Se realiza la inspección mensual de los equipos de protección colectiva (guardas de seguridad, sistemas de izaje, sistema anticaída, luces. de emergencia, etc.). ¿Se cuenta con inventario de herramientas?
+> Inspecciones internas de EPP se realiza segun el [programa](https://gmiperu-my.sharepoint.com/personal/equispe_gmisac_com_pe/_layouts/15/onedrive.aspx?login_hint=equispe%40gmisac%2Ecom%2Epe&id=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F8%2E1%20PLANIFICACI%C3%93N%20Y%20CONTROL%20OPERACIONAL%2F3%2E%20Registros%2F2023%2F7%2E%20Inspecciones%20internas&listurl=https%3A%2F%2Fgmiperu%2Esharepoint%2Ecom%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos&viewid=a979b7ce%2D4e6a%2D4c7e%2D9a7d%2D62f7c0b62ad6&view=0)
+53. ✅ Las condiciones de los equipos colectivos y herramientas son optimas.
+> Verificación en campo de los equipos colectivos (lineas de anclaje)
 
-### Preparación Y Respuesta Ante Emergencias
+### Preparación y Respuesta ante Emergencias
 
-54. ¿Se tienen identificados los tipos de emergencias a los cuales está expuesta la empresa?
-55. ¿Cuenta con un plan de respuesta ante emergencias que incluye los eventos previamente identificados? ¿Cuentan con un Programa de Simulacros. para la atención en casos de emergencias y esta implementada?
-56. ¿Se brinda capacitación a las brigadas de emergencia y trabajadores en general sobre las formas de actuación en caso de emergencia?  Prevención. y control de incendios, primeros auxilios y evacuación)
+54. ✅ ¿Se tienen identificados los tipos de emergencias a los cuales está expuesta la empresa?
+> [Protocolos de emergencia](https://gmiperu-my.sharepoint.com/personal/equispe_gmisac_com_pe/_layouts/15/onedrive.aspx?login_hint=equispe%40gmisac%2Ecom%2Epe&id=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F8%2E2%20PREPARACI%C3%93N%20Y%20RESPUESTA%20ANTE%20EMERGENCIAS%2F3%2E%20Registros%2F4%2E%20Protocolos%2F2023%2F1%2EProtocolo%20GMI&listurl=https%3A%2F%2Fgmiperu%2Esharepoint%2Ecom%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos&viewid=a979b7ce%2D4e6a%2D4c7e%2D9a7d%2D62f7c0b62ad6&view=0)
+55. ✅ ¿Cuenta con un plan de respuesta ante emergencias que incluye los eventos previamente identificados? ¿Cuentan con un Programa de Simulacros. para la atención en casos de emergencias y esta implementada?
+> - [Plan de Respuesta ante Emergencias](https://gmiperu-my.sharepoint.com/personal/equispe_gmisac_com_pe/_layouts/15/onedrive.aspx?listurl=https%3A%2F%2Fgmiperu%2Esharepoint%2Ecom%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos&viewid=a979b7ce%2D4e6a%2D4c7e%2D9a7d%2D62f7c0b62ad6&login_hint=equispe%40gmisac%2Ecom%2Epe&id=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F8%2E2%20PREPARACI%C3%93N%20Y%20RESPUESTA%20ANTE%20EMERGENCIAS%2F3%2E%20Registros%2F1%2E%20Plan%20de%20respuesta%20ante%20emergencias%2F2023%2F3%2E%20Registros%2FPlan%20de%20Respuesta%20ante%20emergencias%20GMI%202023%2Epdf&parent=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F8%2E2%20PREPARACI%C3%93N%20Y%20RESPUESTA%20ANTE%20EMERGENCIAS%2F3%2E%20Registros%2F1%2E%20Plan%20de%20respuesta%20ante%20emergencias%2F2023%2F3%2E%20Registros)
+> - Plan de Simulacros alineado al cliente
+56. 🟠 ¿Se brinda capacitación a las brigadas de emergencia y trabajadores en general sobre las formas de actuación en caso de emergencia?  Prevención. y control de incendios, primeros auxilios y evacuación)
+> - Se tiene programado capacitaciones con el Broker
+> - Se realizo la modificación del programa
 
 ### Investigación De Incidentes Y Accidentes
 
-57. ¿Se evidencia que la empresa registra e investiga los incidentes, incidentes peligrosos, accidentes de trabajo y enfermedades ocupacionales.?. ¿Los miembros del Comité Paritario de SSO participan en la investigación de los accidentes de trabajo?
-58. ¿Se realiza el seguimiento del cierre de las acciones correctivas provenientes de la investigación de incidentes, incidentes peligrosos., accidentes de trabajo y enfermedades ocupacionales?
-59. ¿El personal operativo conoce el procedimiento para reportar incidentes, incidentes peligrosos, accidentes de trabajo y enfermedades ocupacionales.? 
-60. ¿Se difunde los eventos ocurridos en la empresa? Entrevista a los colaboradores
+57. ✅ ¿Se evidencia que la empresa registra e investiga los incidentes, incidentes peligrosos, accidentes de trabajo y enfermedades ocupacionales.?. ¿Los miembros del Comité Paritario de SSO participan en la investigación de los accidentes de trabajo?
+> [Registro de accidentes e incidentes](https://gmiperu-my.sharepoint.com/personal/equispe_gmisac_com_pe/_layouts/15/onedrive.aspx?login_hint=equispe%40gmisac%2Ecom%2Epe&id=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F10%2E2%20INCIDENTES%2CNO%20CONFORMIDADES%20Y%20ACCIONES%20CORRECTIVAS%2F3%2E%20Registros%2F1%2E%20Informe%20de%20accidentes%2F2023&listurl=https%3A%2F%2Fgmiperu%2Esharepoint%2Ecom%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos&viewid=a979b7ce%2D4e6a%2D4c7e%2D9a7d%2D62f7c0b62ad6&view=0)
+58. ✅ ¿Se realiza el seguimiento del cierre de las acciones correctivas provenientes de la investigación de incidentes, incidentes peligrosos., accidentes de trabajo y enfermedades ocupacionales?
+> Se realiza seguimiento todos los viernes, los levantamientos estan en el punto 57
+59. ✅ ¿El personal operativo conoce el procedimiento para reportar incidentes, incidentes peligrosos, accidentes de trabajo y enfermedades ocupacionales.? 
+> - Cartilla del PAS
+> - Reporte de incidentes
+60. ✅ ¿Se difunde los eventos ocurridos en la empresa? Entrevista a los colaboradores
+> Difusión de eventos en la unidad de cada accidente
 
-### Estadística En SSO
+### Estadística SSO
 
-61. ¿Se cuenta con los registros de accidentes de trabajo, enfermedades ocupacionales e incidentes peligrosos? En caso de no contar con accidentes, enfermedades ocupacionales, ni incidentes, presentar el registro de las estadísticas de accidentabilidad, enfermedades e incidentes. peligrosos.
-62. ¿Se cuenta con estadísticas de SSO? (Indicadores de frecuencia, severidad, accidentabilidad)
-### Señalización De Áreas De Trabajo Y Código De Colores
-63. "¿Se cuenta con señalización de las áreas de trabajo de acuerdo al Código de Señales y Colores? 
+61. ✅ ¿Se cuenta con los registros de accidentes de trabajo, enfermedades ocupacionales e incidentes peligrosos? En caso de no contar con accidentes, enfermedades ocupacionales, ni incidentes, presentar el registro de las estadísticas de accidentabilidad, enfermedades e incidentes. peligrosos.
+> - [Registro de accidentes e incidentes](https://gmiperu-my.sharepoint.com/personal/equispe_gmisac_com_pe/_layouts/15/onedrive.aspx?login_hint=equispe%40gmisac%2Ecom%2Epe&id=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F10%2E2%20INCIDENTES%2CNO%20CONFORMIDADES%20Y%20ACCIONES%20CORRECTIVAS%2F3%2E%20Registros%2F1%2E%20Informe%20de%20accidentes%2F2023&listurl=https%3A%2F%2Fgmiperu%2Esharepoint%2Ecom%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos&viewid=a979b7ce%2D4e6a%2D4c7e%2D9a7d%2D62f7c0b62ad6&view=0)
+> - Estadisticas de SSO actualizada
+62. ✅ ¿Se cuenta con estadísticas de SSO? (Indicadores de frecuencia, severidad, accidentabilidad)
+> - Estadisticas de SSO actualizada
+
+### Señalización de áreas de trabajo y código de colores
+
+63. ✅ "¿Se cuenta con señalización de las áreas de trabajo de acuerdo al Código de Señales y Colores? 
 Nota.: En base a la norma Indecopi NTP 399-010-1 y en caso de ser ECM de acuerdo al Anexo 17 del D.S. 024-2016-MEM."
-### Sistemas De Comunicación Y Difusión De SSO
-64. ¿Cuentan con publicaciones (afiches, boletines, revistas, radiales, periodísticas, etc.) u otras orientadas a difundir el resultado de las competencias internas de seguridad, normas de seguridad, estadísticas de incidentes, campañas de salud ambiental y salud pública, y para. entablar un adecuado nivel de información a su personal y comunidades de su área de influencia?
-### Bloqueo De Energia
-65. ¿Tienen un procedimiento escrito de bloqueo de energía, Se han identificado las fuentes de energía que pueden causar accidentes graves, el personal que trabaja con energía eléctrica ha recibido capacitación en bloqueo y señalización?
-66. ¿La empresa tiene un procedimiento implementado para controlar y minimizar los riesgos relacionados con el almacenamiento, transporte, manipulación. y uso de explosivos, así como los agentes y accesorios de voladura?
+> Verificación en campo de las señalizaciones
+
+### Sistemas de comunicación y difusión de SSO
+
+64. ✅ ¿Cuentan con publicaciones (afiches, boletines, revistas, radiales, periodísticas, etc.) u otras orientadas a difundir el resultado de las competencias internas de seguridad, normas de seguridad, estadísticas de incidentes, campañas de salud ambiental y salud pública, y para entablar un adecuado nivel de información a su personal y comunidades de su área de influencia?
+> - Matriz de comunicación en el [Procedimiento de Comunicación](https://gmiperu-my.sharepoint.com/personal/equispe_gmisac_com_pe/_layouts/15/onedrive.aspx?listurl=https%3A%2F%2Fgmiperu%2Esharepoint%2Ecom%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos&viewid=a979b7ce%2D4e6a%2D4c7e%2D9a7d%2D62f7c0b62ad6&login_hint=equispe%40gmisac%2Ecom%2Epe&id=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F8%2E1%20PLANIFICACI%C3%93N%20Y%20CONTROL%20OPERACIONAL%2F3%2E%20Registros%2F2023%2F3%2E%20Procedimientos%2FSIG%2FPG%2DSIG%2D009%20Comunic%2C%20Participac%20y%20Consulta%2Epdf&parent=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F8%2E1%20PLANIFICACI%C3%93N%20Y%20CONTROL%20OPERACIONAL%2F3%2E%20Registros%2F2023%2F3%2E%20Procedimientos%2FSIG)
+> - Paneles informativos
+> - Telegram
+> - Grupos de Whatsapp
+> - Reuniones internas (jefaturas)
+> - Cartillas SSOMAC
+> - Paradas de SSO
+> - Elaboración de Tips
+
+### Bloqueo de Energia
+
+65. ✅ ¿Tienen un procedimiento escrito de bloqueo de energía, Se han identificado las fuentes de energía que pueden causar accidentes graves, el personal que trabaja con energía eléctrica ha recibido capacitación en bloqueo y señalización?
+> - [Sistema de bloqueo y señalización](https://gmiperu-my.sharepoint.com/personal/equispe_gmisac_com_pe/_layouts/15/onedrive.aspx?listurl=https%3A%2F%2Fgmiperu%2Esharepoint%2Ecom%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos&viewid=a979b7ce%2D4e6a%2D4c7e%2D9a7d%2D62f7c0b62ad6&login_hint=equispe%40gmisac%2Ecom%2Epe&id=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F8%2E1%20PLANIFICACI%C3%93N%20Y%20CONTROL%20OPERACIONAL%2F3%2E%20Registros%2F2023%2F2%2E%20PETS%2F2%2E%20Vigentes%2F10%2E%20Seguridad%2FGMI%2DSSO%2DPET%2D03%20Sistema%20de%20bloqueo%20y%20sen%CC%83alizacio%CC%81n%20V%2E02%2Epdf&parent=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F8%2E1%20PLANIFICACI%C3%93N%20Y%20CONTROL%20OPERACIONAL%2F3%2E%20Registros%2F2023%2F2%2E%20PETS%2F2%2E%20Vigentes%2F10%2E%20Seguridad)
+> - Matriz de bloqueos
+66. ✅ ¿La empresa tiene un procedimiento implementado para controlar y minimizar los riesgos relacionados con el almacenamiento, transporte, manipulación. y uso de explosivos, así como los agentes y accesorios de voladura?
+> [Pets de Almacen](https://gmiperu-my.sharepoint.com/personal/equispe_gmisac_com_pe/_layouts/15/onedrive.aspx?login_hint=equispe%40gmisac%2Ecom%2Epe&id=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F8%2E1%20PLANIFICACI%C3%93N%20Y%20CONTROL%20OPERACIONAL%2F3%2E%20Registros%2F2023%2F2%2E%20PETS%2F2%2E%20Vigentes%2F1%2E%20Almacen&listurl=https%3A%2F%2Fgmiperu%2Esharepoint%2Ecom%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos&viewid=a979b7ce%2D4e6a%2D4c7e%2D9a7d%2D62f7c0b62ad6&view=0)
+
 ### Explosivos
-67. ¿La empresa asegura la capacitación, habilitación y autorización de los empleados que manipulan o están expuestos a los explosivos?
-68. Dependiendo de la actividad realizada, ¿la empresa cuenta con las autorizaciones requeridas por SUCAMEC?
-69. En el caso de empresas que realizan actividades de voladura, ¿han definido en cada etapa los controles a tener en cuanta para minimizar el riesgo de accidentes en polvorín, en perforado, cargado y en el tipo de disparo utilizado?
+
+67. ✅ ¿La empresa asegura la capacitación, habilitación y autorización de los empleados que manipulan o están expuestos a los explosivos?
+> Capacitación en explosivos
+68. ✅ Dependiendo de la actividad realizada, ¿la empresa cuenta con las autorizaciones requeridas por SUCAMEC?
+> Autorizaciones SUCAMEC
+69. ✅ En el caso de empresas que realizan actividades de voladura, ¿han definido en cada etapa los controles a tener en cuanta para minimizar el riesgo de accidentes en polvorín, en perforado, cargado y en el tipo de disparo utilizado?
+> PETS de perforación y almacen
+
 ### Gestión Ambiental
-70. ¿La empresa cuenta con una lista maestra de los materiales peligrosos con los que trabaja?
-71. ¿Cuentan con las hojas de seguridad o MSDS de las sustancias o materiales peligrosos?. ¿Los productos químicos se encuentran  etiquetados. o rotulados?
+
+70. 🟠 ¿La empresa cuenta con una lista maestra de los materiales peligrosos con los que trabaja?
+71. 🟠 ¿Cuentan con las hojas de seguridad o MSDS de las sustancias o materiales peligrosos?. ¿Los productos químicos se encuentran  etiquetados. o rotulados?
 72. ¿La empresa cuenta con un programa de inspecciones ambientales y este se encuentra implementado?
 73. La Empresa cuenta con el plan de manejo ambiental para el control de la gestión ambiental durante el proceso que realiza en la unidad.
 74. La Empresa cuenta con capacitaciones de acuerdo al DS Nº 040 (Residuos solidos, legislación ambiental, objetivos ambientales y Plan de respuesta. a Emergencia)
@@ -196,7 +246,11 @@ Nota: Verificar si la empresa se encarga de la gestión de los residuos sólidos
 96. Contiene lista maestra de documentos
 97. Realiza encuestas de Satisfacción del cliente
 98. La empresa cuenta con un proveedor de capacitaciones y cumplen el programa de capacitación de mejora de competencias
-99. La empresa cuenta con perfiles de puesto y cv documentado del personal clave 
-100. Tienen identificado la lista materiales criticos y como verifican la recepción de estos materiales
-101. La empresa cuentan con indicadores de producción
-102. La empresa cuentan con una matriz de comunicaciones
+99. ✅ La empresa cuenta con perfiles de puesto y cv documentado del personal clave 
+> [Perfiles de Puesto 2022-2023](https://gmiperu-my.sharepoint.com/personal/equispe_gmisac_com_pe/_layouts/15/onedrive.aspx?login_hint=equispe%40gmisac%2Ecom%2Epe&id=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F5%2E3%20ROLES%2C%20RESPONSABILIDADES%20Y%20AUTORIDAD%2F3%2E%20Registros%2F3%2E%20PERFILES&listurl=https%3A%2F%2Fgmiperu%2Esharepoint%2Ecom%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos&viewid=a979b7ce%2D4e6a%2D4c7e%2D9a7d%2D62f7c0b62ad6&view=0)
+100. 📣 Tienen identificado la lista materiales criticos y como verifican la recepción de estos materiales
+> Seguimiento a materiales criticos de Almacen
+101. ✅ La empresa cuentan con indicadores de producción
+> [Informes mensuales de Producción](https://gmiperu-my.sharepoint.com/personal/equispe_gmisac_com_pe/_layouts/15/onedrive.aspx?login_hint=equispe%40gmisac%2Ecom%2Epe&id=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F9%2E1%20SEGUIMIENTO%2CMEDICION%20Y%20ANALISIS%2F3%2E%20Registros%2F7%2E%20Objetivos%20de%20Calidad%2F2023%2F1%2E%20Oficina%20Tecnica&listurl=https%3A%2F%2Fgmiperu%2Esharepoint%2Ecom%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos&viewid=a979b7ce%2D4e6a%2D4c7e%2D9a7d%2D62f7c0b62ad6&view=0)
+102. ✅ La empresa cuentan con una matriz de comunicaciones
+> - Matriz de comunicación en el [Procedimiento de Comunicación](https://gmiperu-my.sharepoint.com/personal/equispe_gmisac_com_pe/_layouts/15/onedrive.aspx?listurl=https%3A%2F%2Fgmiperu%2Esharepoint%2Ecom%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos&viewid=a979b7ce%2D4e6a%2D4c7e%2D9a7d%2D62f7c0b62ad6&login_hint=equispe%40gmisac%2Ecom%2Epe&id=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F8%2E1%20PLANIFICACI%C3%93N%20Y%20CONTROL%20OPERACIONAL%2F3%2E%20Registros%2F2023%2F3%2E%20Procedimientos%2FSIG%2FPG%2DSIG%2D009%20Comunic%2C%20Participac%20y%20Consulta%2Epdf&parent=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F8%2E1%20PLANIFICACI%C3%93N%20Y%20CONTROL%20OPERACIONAL%2F3%2E%20Registros%2F2023%2F3%2E%20Procedimientos%2FSIG)
