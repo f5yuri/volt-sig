@@ -147,13 +147,15 @@ a) Vigilancia de la salud de sus trabajadores? (exámenes médicos pre-ocupacion
 ### Preparación y Respuesta ante Emergencias
 
 54. ✅ ¿Se tienen identificados los tipos de emergencias a los cuales está expuesta la empresa?
-> [Protocolos de emergencia](https://gmiperu-my.sharepoint.com/personal/equispe_gmisac_com_pe/_layouts/15/onedrive.aspx?login_hint=equispe%40gmisac%2Ecom%2Epe&id=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F8%2E2%20PREPARACI%C3%93N%20Y%20RESPUESTA%20ANTE%20EMERGENCIAS%2F3%2E%20Registros%2F4%2E%20Protocolos%2F2023%2F1%2EProtocolo%20GMI&listurl=https%3A%2F%2Fgmiperu%2Esharepoint%2Ecom%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos&viewid=a979b7ce%2D4e6a%2D4c7e%2D9a7d%2D62f7c0b62ad6&view=0)
+> - [Plan de Respuesta ante Emergencias](https://gmiperu-my.sharepoint.com/personal/equispe_gmisac_com_pe/_layouts/15/onedrive.aspx?listurl=https%3A%2F%2Fgmiperu%2Esharepoint%2Ecom%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos&viewid=a979b7ce%2D4e6a%2D4c7e%2D9a7d%2D62f7c0b62ad6&login_hint=equispe%40gmisac%2Ecom%2Epe&id=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F8%2E2%20PREPARACI%C3%93N%20Y%20RESPUESTA%20ANTE%20EMERGENCIAS%2F3%2E%20Registros%2F1%2E%20Plan%20de%20respuesta%20ante%20emergencias%2F2023%2F3%2E%20Registros%2FPlan%20de%20Respuesta%20ante%20emergencias%20GMI%202023%2Epdf&parent=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F8%2E2%20PREPARACI%C3%93N%20Y%20RESPUESTA%20ANTE%20EMERGENCIAS%2F3%2E%20Registros%2F1%2E%20Plan%20de%20respuesta%20ante%20emergencias%2F2023%2F3%2E%20Registros)
+> - [Protocolos de emergencia](https://gmiperu-my.sharepoint.com/personal/equispe_gmisac_com_pe/_layouts/15/onedrive.aspx?login_hint=equispe%40gmisac%2Ecom%2Epe&id=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F8%2E2%20PREPARACI%C3%93N%20Y%20RESPUESTA%20ANTE%20EMERGENCIAS%2F3%2E%20Registros%2F4%2E%20Protocolos%2F2023%2F1%2EProtocolo%20GMI&listurl=https%3A%2F%2Fgmiperu%2Esharepoint%2Ecom%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos&viewid=a979b7ce%2D4e6a%2D4c7e%2D9a7d%2D62f7c0b62ad6&view=0)
 55. ✅ ¿Cuenta con un plan de respuesta ante emergencias que incluye los eventos previamente identificados? ¿Cuentan con un Programa de Simulacros. para la atención en casos de emergencias y esta implementada?
 > - [Plan de Respuesta ante Emergencias](https://gmiperu-my.sharepoint.com/personal/equispe_gmisac_com_pe/_layouts/15/onedrive.aspx?listurl=https%3A%2F%2Fgmiperu%2Esharepoint%2Ecom%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos&viewid=a979b7ce%2D4e6a%2D4c7e%2D9a7d%2D62f7c0b62ad6&login_hint=equispe%40gmisac%2Ecom%2Epe&id=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F8%2E2%20PREPARACI%C3%93N%20Y%20RESPUESTA%20ANTE%20EMERGENCIAS%2F3%2E%20Registros%2F1%2E%20Plan%20de%20respuesta%20ante%20emergencias%2F2023%2F3%2E%20Registros%2FPlan%20de%20Respuesta%20ante%20emergencias%20GMI%202023%2Epdf&parent=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F8%2E2%20PREPARACI%C3%93N%20Y%20RESPUESTA%20ANTE%20EMERGENCIAS%2F3%2E%20Registros%2F1%2E%20Plan%20de%20respuesta%20ante%20emergencias%2F2023%2F3%2E%20Registros)
-> - Plan de Simulacros alineado al cliente
+> - [Plan de Simulacros alineado al cliente](https://gmiperu-my.sharepoint.com/personal/equispe_gmisac_com_pe/_layouts/15/onedrive.aspx?login_hint=equispe%40gmisac%2Ecom%2Epe&id=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F8%2E2%20PREPARACI%C3%93N%20Y%20RESPUESTA%20ANTE%20EMERGENCIAS%2F3%2E%20Registros%2F8%2E%20Programa%20de%20Simulacros%2F2023&listurl=https%3A%2F%2Fgmiperu%2Esharepoint%2Ecom%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos&viewid=a979b7ce%2D4e6a%2D4c7e%2D9a7d%2D62f7c0b62ad6&view=0)
 56. 🟠 ¿Se brinda capacitación a las brigadas de emergencia y trabajadores en general sobre las formas de actuación en caso de emergencia?  Prevención. y control de incendios, primeros auxilios y evacuación)
 > - Se tiene programado capacitaciones con el Broker
 > - Se realizo la modificación del programa
+> - Agregar el acuerdo de modificación del programa
 
 ### Investigación De Incidentes Y Accidentes
 
@@ -162,6 +164,7 @@ a) Vigilancia de la salud de sus trabajadores? (exámenes médicos pre-ocupacion
 58. ✅ ¿Se realiza el seguimiento del cierre de las acciones correctivas provenientes de la investigación de incidentes, incidentes peligrosos., accidentes de trabajo y enfermedades ocupacionales?
 > Se realiza seguimiento todos los viernes, los levantamientos estan en el punto 57
 59. ✅ ¿El personal operativo conoce el procedimiento para reportar incidentes, incidentes peligrosos, accidentes de trabajo y enfermedades ocupacionales.? 
+> - [Procedimiento de Investigación de Incidentes](https://gmiperu-my.sharepoint.com/personal/equispe_gmisac_com_pe/_layouts/15/onedrive.aspx?listurl=https%3A%2F%2Fgmiperu%2Esharepoint%2Ecom%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos&viewid=a979b7ce%2D4e6a%2D4c7e%2D9a7d%2D62f7c0b62ad6&login_hint=equispe%40gmisac%2Ecom%2Epe&id=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F8%2E1%20PLANIFICACI%C3%93N%20Y%20CONTROL%20OPERACIONAL%2F3%2E%20Registros%2F2023%2F3%2E%20Procedimientos%2FSIG%2FPG%2DSIG%2D019%20Investigaci%C3%B3n%20de%20accidentes%20e%20incidentes%2Epdf&parent=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F8%2E1%20PLANIFICACI%C3%93N%20Y%20CONTROL%20OPERACIONAL%2F3%2E%20Registros%2F2023%2F3%2E%20Procedimientos%2FSIG) (alinear con el titular)
 > - Cartilla del PAS
 > - Reporte de incidentes
 60. ✅ ¿Se difunde los eventos ocurridos en la empresa? Entrevista a los colaboradores
@@ -171,7 +174,7 @@ a) Vigilancia de la salud de sus trabajadores? (exámenes médicos pre-ocupacion
 
 61. ✅ ¿Se cuenta con los registros de accidentes de trabajo, enfermedades ocupacionales e incidentes peligrosos? En caso de no contar con accidentes, enfermedades ocupacionales, ni incidentes, presentar el registro de las estadísticas de accidentabilidad, enfermedades e incidentes. peligrosos.
 > - [Registro de accidentes e incidentes](https://gmiperu-my.sharepoint.com/personal/equispe_gmisac_com_pe/_layouts/15/onedrive.aspx?login_hint=equispe%40gmisac%2Ecom%2Epe&id=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F10%2E2%20INCIDENTES%2CNO%20CONFORMIDADES%20Y%20ACCIONES%20CORRECTIVAS%2F3%2E%20Registros%2F1%2E%20Informe%20de%20accidentes%2F2023&listurl=https%3A%2F%2Fgmiperu%2Esharepoint%2Ecom%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos&viewid=a979b7ce%2D4e6a%2D4c7e%2D9a7d%2D62f7c0b62ad6&view=0)
-> - Estadisticas de SSO actualizada
+> - [Estadisticas de SSO actualizada](https://gmiperu-my.sharepoint.com/personal/equispe_gmisac_com_pe/_layouts/15/onedrive.aspx?login_hint=equispe%40gmisac%2Ecom%2Epe&id=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F7%2E4%2E%20COMUNICACI%C3%93N%2F3%2E%20Registros%2F2023%2F2%2E%20Paneles%2F1%2E%20Mina&listurl=https%3A%2F%2Fgmiperu%2Esharepoint%2Ecom%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos&viewid=a979b7ce%2D4e6a%2D4c7e%2D9a7d%2D62f7c0b62ad6&view=0)
 62. ✅ ¿Se cuenta con estadísticas de SSO? (Indicadores de frecuencia, severidad, accidentabilidad)
 > - Estadisticas de SSO actualizada
 
@@ -212,40 +215,67 @@ Nota.: En base a la norma Indecopi NTP 399-010-1 y en caso de ser ECM de acuerdo
 
 ### Gestión Ambiental
 
-70. 🟠 ¿La empresa cuenta con una lista maestra de los materiales peligrosos con los que trabaja?
-71. 🟠 ¿Cuentan con las hojas de seguridad o MSDS de las sustancias o materiales peligrosos?. ¿Los productos químicos se encuentran  etiquetados. o rotulados?
-72. ¿La empresa cuenta con un programa de inspecciones ambientales y este se encuentra implementado?
-73. La Empresa cuenta con el plan de manejo ambiental para el control de la gestión ambiental durante el proceso que realiza en la unidad.
-74. La Empresa cuenta con capacitaciones de acuerdo al DS Nº 040 (Residuos solidos, legislación ambiental, objetivos ambientales y Plan de respuesta. a Emergencia)
-75. ¿La empresa cuenta con un Plan de respuesta a emergencia para el control de sus actividades, el cual demuestra que sus colaboradores conocen.?
-76. ¿Se tienen identificados todos los escenarios de emergencias asociados a sus actividades, así como sus planes de emergencia?
-77. ¿Cuenta con el kit de respuesta a emergencias está disponible para uso (incluyendo vehículo y materias/equipos de campo)?
-78. "¿La empresa se encarga de la gestión de los residuos sólidos generados por sus actividades? 
+70. ✅ ¿La empresa cuenta con una lista maestra de los materiales peligrosos con los que trabaja?
+> [Hojas MSDS](https://gmiperu-my.sharepoint.com/personal/equispe_gmisac_com_pe/_layouts/15/onedrive.aspx?login_hint=equispe%40gmisac%2Ecom%2Epe&id=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F8%2E2%20PREPARACI%C3%93N%20Y%20RESPUESTA%20ANTE%20EMERGENCIAS%2F3%2E%20Registros%2F9%2E%20Hojas%20MSDS%2F2023%2FGMI&listurl=https%3A%2F%2Fgmiperu%2Esharepoint%2Ecom%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos&viewid=a979b7ce%2D4e6a%2D4c7e%2D9a7d%2D62f7c0b62ad6&view=0)
+71. ✅ ¿Cuentan con las hojas de seguridad o MSDS de las sustancias o materiales peligrosos?. ¿Los productos químicos se encuentran  etiquetados. o rotulados?
+> - [Hojas MSDS](https://gmiperu-my.sharepoint.com/personal/equispe_gmisac_com_pe/_layouts/15/onedrive.aspx?login_hint=equispe%40gmisac%2Ecom%2Epe&id=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F8%2E2%20PREPARACI%C3%93N%20Y%20RESPUESTA%20ANTE%20EMERGENCIAS%2F3%2E%20Registros%2F9%2E%20Hojas%20MSDS%2F2023%2FGMI&listurl=https%3A%2F%2Fgmiperu%2Esharepoint%2Ecom%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos&viewid=a979b7ce%2D4e6a%2D4c7e%2D9a7d%2D62f7c0b62ad6&view=0)
+> - En campo
+72. ✅ ¿La empresa cuenta con un programa de inspecciones ambientales y este se encuentra implementado?
+> - Inspecciones cruzadas en objetivos ambientales
+73. ✅ La Empresa cuenta con el plan de manejo ambiental para el control de la gestión ambiental durante el proceso que realiza en la unidad.
+> - PMA
+74. ✅ La Empresa cuenta con capacitaciones de acuerdo al DS Nº 040 (Residuos solidos, legislación ambiental, objetivos ambientales y Plan de respuesta. a Emergencia)
+> - E-learning
+> - Capacitaciones internas
+75. ✅ ¿La empresa cuenta con un Plan de respuesta a emergencia para el control de sus actividades, el cual demuestra que sus colaboradores conocen.?
+> - Entrevista a colaboradores, cartilla PAS
+76. ✅ ¿Se tienen identificados todos los escenarios de emergencias asociados a sus actividades, así como sus planes de emergencia?
+> - Protocolos de emergencia
+77. ✅ ¿Cuenta con el kit de respuesta a emergencias está disponible para uso (incluyendo vehículo y materias/equipos de campo)?
+> - Inspeccion en campo
+> - Check list de kit antiderrame
+78. ✅ "¿La empresa se encarga de la gestión de los residuos sólidos generados por sus actividades? 
 Nota: Verificar si la empresa se encarga de la gestión de los residuos sólidos, si realiza inventarios y controles, acumulación temporal en lugares. adecuados"
-79. ¿El personal ha sido entrenado en la gestión de residuos sólidos?
-80. ¿La empresa cuenta con las revisiones técnicas vigentes de todos sus vehículos?
-81. ¿El personal ha sido entrenado en la gestión de Agua y Efluentes Líquidos?
-82. ¿La empresa cuenta con registros de Investigaciones y seguimiento de acciones de incidentes - accidentes ambientales?
-83. ¿La empresa cuenta con un mapa de Riesgos Ambientales en un lugar visible?
-84. ¿La empresa cuenta con permisos y autorizaciones vigentes para el desarrollo de sus actividades de acuerdo a legislación ambiental vigente.?
-### Formacion Y Promocion Laboral
-85. La empresa cumple con los conceptos remunerativos y los conceptos no remunerativos y los no computables para el pago de la compensación por tiempo de servicios (CTS), gratificaciones, utilidades, horas extras y otros beneficios laborales?
-86. La empresa otorga prestaciones de salud y económicas por accidentes de trabajo y enfermedades profesionales a los trabajadores, (empleados dependientes o independientes y obrero) que tienen la condición de afiliados regulares del Seguro Social de Salud y que laboran en un centro de trabajo en el que se desarrollan actividades de riesgo previstas por ley. (SCTR)
+> - A GMI le corresponde el internamiento, seguimiento de objetivos ambientales
+79. ✅ ¿El personal ha sido entrenado en la gestión de residuos sólidos?
+> - E-learning
+80. ✅ ¿La empresa cuenta con las revisiones técnicas vigentes de todos sus vehículos?
+> - Revisiones tecnicas con Garage
+81. ✅ ¿El personal ha sido entrenado en la gestión de Agua y Efluentes Líquidos?
+> - Capacitación en efluentes - abril, uso e importancia del agua
+82. ✅ ¿La empresa cuenta con registros de Investigaciones y seguimiento de acciones de incidentes - accidentes ambientales?
+> - Se emite mediante Alpayana, y a la fecha no hubo
+83. ✅ ¿La empresa cuenta con un mapa de Riesgos Ambientales en un lugar visible?
+> - En el mapa de riesgos debe contener pictogramas ambientales
+84. ✅ ¿La empresa cuenta con permisos y autorizaciones vigentes para el desarrollo de sus actividades de acuerdo a legislación ambiental vigente.?
+> - Alpayana
+
+### Formacion y promocion laboral
+
+85. ✅ La empresa cumple con los conceptos remunerativos y los conceptos no remunerativos y los no computables para el pago de la compensación por tiempo de servicios (CTS), gratificaciones, utilidades, horas extras y otros beneficios laborales?
+> - GH
+86. ✅ La empresa otorga prestaciones de salud y económicas por accidentes de trabajo y enfermedades profesionales a los trabajadores, (empleados dependientes o independientes y obrero) que tienen la condición de afiliados regulares del Seguro Social de Salud y que laboran en un centro de trabajo en el que se desarrollan actividades de riesgo previstas por ley. (SCTR)
+> - GH
 
 ### Gestión De Calidad
 
-87. La empresa cuenta con certificación ISO 9001, y/o constancia de homologación, estos deben encontrarse vigente a la fecha, asi mismo deben. incluir la actividad evaluada
-88. La empresa cuenta con Política de calidad aprobada y vigente
-89. Auditorías internas en el último periodo transcurrido para revisar el sistema de gestión de calidad
-90. La empresa cuenta con información documentada del tratamiento de las no conformidades y acciones correctivas
-91. La empresa cuenta con programa de calibración de todos los equipos de seguimiento y medición, el mismo debe incluir la identificación de cada equipo, frecuencia de calibración
+87. ✅ La empresa cuenta con certificación ISO 9001, y/o constancia de homologación, estos deben encontrarse vigente a la fecha, asi mismo deben. incluir la actividad evaluada
+> - Se cuenta con certificado ISO
+88. ✅ La empresa cuenta con Política de calidad aprobada y vigente
+> - Politica SSOMAC
+89. ✅ Auditorías internas en el último periodo transcurrido para revisar el sistema de gestión de calidad
+> - Programa de auditorias internas
+90. ✅ La empresa cuenta con información documentada del tratamiento de las no conformidades y acciones correctivas
+> - Seguimiento de las auditorias internas y externas
+91. ✅ La empresa cuenta con programa de calibración de todos los equipos de seguimiento y medición, el mismo debe incluir la identificación de cada equipo, frecuencia de calibración
 92. Cuentan con certificados de calibración de los equipos de seguimiento y medición en caso aplique
 93. La empresa registra las quejas y toma acciones para resolverlas
 94. Dispone de una política de responsabilidad social empresarial o equivalente
 95. Cuenta la empresa con Programas de Responsabilidad Social, implementados
 96. Contiene lista maestra de documentos
-97. Realiza encuestas de Satisfacción del cliente
-98. La empresa cuenta con un proveedor de capacitaciones y cumplen el programa de capacitación de mejora de competencias
+97.  Realiza encuestas de Satisfacción del cliente
+98. ✅ La empresa cuenta con un proveedor de capacitaciones y cumplen el programa de capacitación de mejora de competencias
+> Las capacitaciones se realiza mediante Alpayana e ISEM
 99. ✅ La empresa cuenta con perfiles de puesto y cv documentado del personal clave 
 > [Perfiles de Puesto 2022-2023](https://gmiperu-my.sharepoint.com/personal/equispe_gmisac_com_pe/_layouts/15/onedrive.aspx?login_hint=equispe%40gmisac%2Ecom%2Epe&id=%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos%2FESTRUCTURA%20SIG%20GMI%2F5%2E3%20ROLES%2C%20RESPONSABILIDADES%20Y%20AUTORIDAD%2F3%2E%20Registros%2F3%2E%20PERFILES&listurl=https%3A%2F%2Fgmiperu%2Esharepoint%2Ecom%2Fsites%2FESTRUCTURASIGGMI%2FDocumentos%20compartidos&viewid=a979b7ce%2D4e6a%2D4c7e%2D9a7d%2D62f7c0b62ad6&view=0)
 100. 📣 Tienen identificado la lista materiales criticos y como verifican la recepción de estos materiales
